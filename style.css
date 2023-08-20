@@ -88,6 +88,7 @@ textarea {
   width: 2rem;
   height: 2rem;
   color: #FFFFFF;
+ font-family: 'Poppins', sans-serif;
   border: none;
   display: grid;
   place-items: center;
